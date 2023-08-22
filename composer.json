@@ -1,0 +1,7 @@
+{
+    "name": "iitbombayweb/main_iitb_theme",
+    "description": "IITB Distribution Main Theme",
+    "type": "drupal-theme",
+    "require": {
+    }
+}
